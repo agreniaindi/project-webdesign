@@ -1,0 +1,27 @@
+:root {
+    --red-agrenia: #a52a2a;
+}
+
+nav {
+  display: flex;
+  gap: 3em;
+  justify-content: end;
+}
+
+nav menu {
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+nav menu a {
+    font-size: 12px;
+}
+nav menu a:hover {
+    color: var(--red-agrenia);
+}
+
+.active {
+    color: var(--red-agrenia);
+}

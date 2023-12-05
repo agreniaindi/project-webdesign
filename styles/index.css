@@ -1,0 +1,17 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    justify-content: space-between;
+}
+
+
+.indi-img img {
+    width: 60%;
+}
+
+.text-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
