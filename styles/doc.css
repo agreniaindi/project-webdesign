@@ -19,6 +19,12 @@ header {
     gap: 2em;
   }
 
+.cropped-ofp {
+width: 150px; 
+height: 150px; 
+object-fit: cover;
+object-position: 25% 25%; 
+}
   /* header .wrap img {
     border: 10px solid gray;
   } */
