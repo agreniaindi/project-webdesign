@@ -17,15 +17,12 @@ header {
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
     gap: 2em;
+    width: 15px;
+    height: 15px;
   }
 
-src="https://example.com/doc2.jpg"> 
-\.cropped-ofp {
-width: 80px; 
-height: 75px; 
-object-fit: cover;
-object-position: 25% 25%; 
-}
+
+
   /* header .wrap img {
     border: 10px solid gray;
   } */
